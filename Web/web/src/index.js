@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Home from './viwes/Home';
+import Home from './views/Home';
 
 ReactDOM.render(
   <React.StrictMode>
@@ -8,4 +8,3 @@ ReactDOM.render(
   </React.StrictMode>,
   document.getElementById('root')
 );
-reportWebVitals();
